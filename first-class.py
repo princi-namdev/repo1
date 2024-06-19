@@ -26,7 +26,7 @@ elif(day==6):
 elif(day==7):
     print("saturday")
 else:
-    print("Not valid")
+    print("Not valid for day")
 
 
 
